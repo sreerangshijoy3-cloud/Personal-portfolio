@@ -1,43 +1,11 @@
-Personal Profile Site
+ Hi, I'm Sreerang!
 
-Welcome to my personal digital garden! This is a responsive website built to showcase my journey as a student and tech enthusiast.
+Welcome to my little corner of the internet. This site is my "digital garden"—a place where I'm planting seeds of knowledge as I learn, experiment, and grow as a developer.
 
-About the Project
+What is this project?
 
-This site serves as a hub for my projects, learnings, and contact information. It is built using HTML and Tailwind CSS, focusing on a clean, dark-themed, and minimal aesthetic.
+This is a personal portfolio site I built from scratch to document my journey. I'm currently in 10th grade, and I've been fascinated by the "how" behind the websites we use every day. Instead of just reading about code, I decided to start building.
 
-Tech Stack
+Why did I build this?
 
-HTML5: For page structure.
-
-Tailwind CSS: For styling and responsive layout.
-
-Inter Font: For a clean, modern typography.
-
-Key Features
-
-Responsive Layout: Works on mobile, tablet, and desktop devices.
-
-Glassmorphism Design: Uses blurred, semi-transparent backgrounds for cards.
-
-Navigation: Smooth scrolling links to different sections.
-
-Social Integration: Quick access to my GitHub, Email, and Slack.
-
-Getting Started
-
-To view this site locally:
-
-Clone this repository to your machine.
-
-Open index.html in your web browser.
-
-Future Plans
-
-[ ] Add a dedicated Projects section.
-
-[ ] Implement a dark/light mode toggle.
-
-[ ] Connect a blog or CMS.
-
-Built with passion by Sreerang Shijoy.
+I wanted a space that felt like me—minimal, dark-themed, and functional. It’s a work-in-progress, much like my own learning journey. I'm using this site to practice my HTML and CSS skills and to have a central hub for my projects and socials.
